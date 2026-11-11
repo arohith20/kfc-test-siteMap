@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arohith20.github.io/kfc-test-siteMap/sitemap.xml
